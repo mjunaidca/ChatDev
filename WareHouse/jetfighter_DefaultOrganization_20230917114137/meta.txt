@@ -1,0 +1,29 @@
+Task:
+Design a simple jet shooting CLI game using typescript in cli. The game will have jet fighters that will be shooting enemies to clear the stages. We can select from the different colors and shapes to choose the fighter jet. Next an infinite game will start where we will control the jet using arrow keys. The jet will shoot enemies and we will be killing them to get scores
+
+Config:
+ChatEnvConfig.clear_structure: True
+ChatEnvConfig.brainstorming: False
+
+
+Roster:
+Chief Executive Officer, Counselor, Chief Human Resource Officer, Chief Product Officer, Chief Technology Officer, Programmer, Code Reviewer, Software Test Engineer, Chief Creative Officer
+
+Modality:
+cli
+
+Ideas:
+
+
+Language:
+ TypeScript
+
+Code_Version:
+5.0
+
+Proposed_images:
+0
+
+Incorporated_images:
+0
+

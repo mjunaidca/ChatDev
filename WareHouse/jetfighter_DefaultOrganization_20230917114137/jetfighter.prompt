@@ -1,0 +1,1 @@
+Design a simple jet shooting CLI game using typescript in cli. The game will have jet fighters that will be shooting enemies to clear the stages. We can select from the different colors and shapes to choose the fighter jet. Next an infinite game will start where we will control the jet using arrow keys. The jet will shoot enemies and we will be killing them to get scores

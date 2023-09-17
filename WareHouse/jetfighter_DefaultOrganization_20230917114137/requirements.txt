@@ -1,0 +1,5 @@
+
+In this package.json file, we have specified the dependencies required for the project. The "readline-sync" package is used for reading user input from the command line. The "ts-node" and "typescript" packages are devDependencies used for running and compiling TypeScript code.
+
+To install the dependencies, you can run the following command in the project directory:
+
